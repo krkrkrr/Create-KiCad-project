@@ -1,6 +1,6 @@
-# create-kicad-project
+# Create-KiCad-project
 
-Template for starting kicad project.
+Template for starting KiCad project.
 
 ## Getting Started
 
